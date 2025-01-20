@@ -1,0 +1,31 @@
+/**
+ * Theme Name: Coucou
+ * Template:   blankslate
+ */
+
+#exo_table {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.depense {
+  background-color: red;
+}
+
+.revenu {
+  background-color: green;
+}
+
+.date {
+}
+
+.montant {
+  font-weight: bold;
+}
+
+.user {
+  font-style: italic;
+}
